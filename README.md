@@ -64,9 +64,6 @@ HabitFlow/
 
 ⚙️ Installation & Setup
 
-# Clone the repository
-git clone https://github.com/your-username/habitflow.git
-
 # Navigate to project
 cd habitflow
 
