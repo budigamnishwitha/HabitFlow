@@ -6,7 +6,7 @@ HabitFlow is a full-stack web application designed to help users build and maint
 
 * DAILY HABIT TRACKING
 
-Create, update, and delete habits,
+      Create, update, and delete habits,
 
 Track daily progress easily
 
