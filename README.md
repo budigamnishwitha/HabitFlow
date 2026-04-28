@@ -6,43 +6,43 @@ HabitFlow is a full-stack web application designed to help users build and maint
 
 * DAILY HABIT TRACKING
 
-      Create, update, and delete habits,
+     Create, update, and delete habits,
 
-Track daily progress easily
+     Track daily progress easily
 
 * STREAK SYSTEM
 
-Automatically calculates streaks,
+     Automatically calculates streaks,
 
-Includes Streak Freeze feature to maintain continuity.
+     Includes Streak Freeze feature to maintain continuity.
 
 * AI-BASED INSIGHTS
 
-Analyzes last 30 days of user activity,
+     Analyzes last 30 days of user activity,
 
-Provides smart suggestions for improvement.
+     Provides smart suggestions for improvement.
 
 * ADVANCE ANALYTICS DASHBOARD
 
-Weekly bar charts,
+     Weekly bar charts,
 
-Monthly progress graphs,
+     Monthly progress graphs,
 
-90-day activity heatmap.
+     90-day activity heatmap.
 
 * AUTHENTICATION SYSTEM
 
-Secure login/signup using JWT,
+    Secure login/signup using JWT,
 
-Protected routes and session handling.
+    Protected routes and session handling.
 
 * MODERN UI/UX
 
-Glassmorphism design,
+     Glassmorphism design,
 
-Dark mode support,
+     Dark mode support,
 
-Smooth animations.
+     Smooth animations.
 
 # Tech Stack
 
@@ -84,24 +84,25 @@ HabitFlow/
 
 # Installation & Setup
 
- NAVIGATE TO PROJECT
-cd habitflow
+* NAVIGATE TO PROJECT
+  
+      cd habitflow
 
  * INSTALL BACKEND DEPENDENCIES
  
-cd backend
+       cd backend
 
-npm install
+       npm install
 
 * INSATLL FRONTEND DEPENDENCIES
  
-cd frontend
+      cd frontend
 
-npm install
+      npm install
 
 # Run backend and frontend
 
-npm run dev
+     npm run dev
 
 # Use Cases
 
